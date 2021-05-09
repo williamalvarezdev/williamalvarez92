@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @williamalvarez92
+- 👀 I’m interested in tech, blockchain, programming languages, lifelonglearner
+- 🌱 I’m currently learning the basics (JS, python, ruby, html, css)
+- 💞️ I’m looking to collaborate on open source projects
