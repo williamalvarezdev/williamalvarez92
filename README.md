@@ -3,8 +3,8 @@
 - 🏠 London, UK
 - 🤖 Tab coder
 - 🎹 Preferred language: JavaScript.
-- 👀 Interested in tech, blockchain, programming languages, lifelonglearning
-- 🌱 I’m currently improving my Javascript, its libraries and frameworks. React.js and boostrap.
+- 👀 Interested in tech, blockchain, programming languages, lifelonglearning.
+- 🌱 I’m currently improving my Javascript and Python, their libraries and frameworks. React.js, Express, boostrap, MongoDB, Django, MySQL, and others.
 - 💞️ I’m looking to collaborate on open source projects
 
 ### Visit my website: <a href="https://william-alvarez.co.uk/">william-alvarez.co.uk</a>
