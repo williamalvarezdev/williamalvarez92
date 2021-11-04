@@ -7,7 +7,7 @@
 - 🌱 I’m currently improving my Javascript, its libraries and frameworks. React.js and boostrap.
 - 💞️ I’m looking to collaborate on open source projects
 
-<a hfer='https://william-alvarez.co.uk/'>Visit my website</a>
+Visit my  <a hfer="https://william-alvarez.co.uk/">website</a>
 Want to contact me?
 
 ####
