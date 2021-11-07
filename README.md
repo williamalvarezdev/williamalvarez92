@@ -1,8 +1,8 @@
 # 👋 Hi, I’m William
 - 💻 Software Engineer
 - 🏠 London, UK
-- 🤖 Tab coder
-- 🎹 Preferred language: JavaScript.
+- 🎹 Tab coder
+- 🤖 Preferred language: JavaScript.
 - 👀 Interested in tech, blockchain, programming languages, lifelonglearning.
 - 🌱 I’m currently improving my Javascript and Python, their libraries and frameworks. React.js, Express, boostrap, MongoDB, Django, MySQL, and others.
 - 💞️ I’m looking to collaborate on open source projects
