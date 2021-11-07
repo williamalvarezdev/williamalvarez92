@@ -1,5 +1,5 @@
 # 👋 Hi, I’m William
-- 💻 Software Developer
+- 💻 Software Engineer
 - 🏠 London, UK
 - 🤖 Tab coder
 - 🎹 Preferred language: JavaScript.
