@@ -28,7 +28,8 @@ Want to contact me?
 <a href="https://www.linkedin.com/in/williamalvarez92/" target="_blank"><img src="/Linkedin.png" alt="Linkedin" width="30"></a>
   <a href="mailto:williamalvarez672@gmail.com" target="_blank"><img src="/575009.png" alt="Email" width="29"></a>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamalvarez92)](https://github.com/williamalvarez92/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamalvarez92&show_icons=true&theme=radical)
+](https://github.com/williamalvarez92/github-readme-stats)
 
 
 
