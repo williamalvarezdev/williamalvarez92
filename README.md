@@ -4,8 +4,11 @@
   
 </div>
 
+<div align="center">
+
 ![JauntyThoroughAsianporcupine-max-1mb](https://user-images.githubusercontent.com/83907621/141540694-abb16686-5d52-4cb1-92e7-32f7e3743882.gif)
 
+ </div>
 
 <div align="center">
   
