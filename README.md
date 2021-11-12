@@ -18,7 +18,7 @@
   👀 Interested in tech, blockchain, programming languages, lifelonglearning.</br>
   🌱 I’m currently improving my Javascript and Python, their libraries and frameworks. React.js, MongoDB, Django, MySQL, and others.</br>
 
-![williamalvarez92's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamalvarez92&show_icons=true&layout=compact&theme=github_dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamalvarez92&layout=compact&theme=github_dark)](https://github.com/williamalvarez92/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamalvarez92&layout=compact&theme=github_dark)](https://github.com/williamalvarez92/github-readme-stats)![williamalvarez92's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamalvarez92&show_icons=true&layout=compact&theme=github_dark)
 
 ## Contact me
 
