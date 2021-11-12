@@ -22,9 +22,8 @@
 
 ## Contact me
 
-
-- <a href="https://www.linkedin.com/in/williamalvarez92/" target="_blank"> LinkedIn me </a>
 - <a href="mailto:williamalvarez672@gmail.com" target="_blank"> Email me </a>
+- <a href="https://www.linkedin.com/in/williamalvarez92/" target="_blank"> LinkedIn me </a>
 - <a href="https://codepen.io/williamalvarez92" target="_blank"> CodePen me </a>
 - <a href="https://www.codewars.com/users/williamalvarez92" target="_blank"> CodeWars me </a>
 
