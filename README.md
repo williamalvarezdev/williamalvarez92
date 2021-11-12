@@ -29,8 +29,8 @@ Want to contact me?
   <a href="mailto:williamalvarez672@gmail.com" target="_blank"><img src="/575009.png" alt="Email" width="29"></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamalvarez92&layout=compact)](https://github.com/williamalvarez92/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamalvarez92&layout=compact&theme=github_dark)](https://github.com/williamalvarez92/github-readme-stats)
 
-
+[![williamalvarez92's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=williamalvarez92)](https://github.com/williamalvarez92/github-readme-stats)
 
 
