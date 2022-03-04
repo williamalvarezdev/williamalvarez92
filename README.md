@@ -22,7 +22,7 @@
   🤖 Preferred language: JavaScript.</br>
   💞️ I’m looking to collaborate on open source projects.</br>
   👀 Interested in tech, blockchain, programming languages, lifelonglearning.</br>
-  🌱 I’m currently improving my Javascript and Python, their libraries and frameworks. React.js, Vue.js, MongoDB, Django, MySQL, and others.</br>
+  🌱 I’m currently learning more about Blockchain, Solidity and DevOps.</br>
 
 ![williamalvarez92's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamalvarez92&show_icons=true&layout=compact&theme=github_dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamalvarez92&layout=compact&theme=github_dark)
 
